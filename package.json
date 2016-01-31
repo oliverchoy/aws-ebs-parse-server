@@ -18,7 +18,8 @@
     "mongodb": "~2.0.33",
     "multer": "~0.1.8",
     "parse": "~1.6.12",
-    "request": "^2.65.0"
+    "request": "^2.65.0",
+    "parse-server": "^2.0.3"
   },
   "devDependencies": {
     "jasmine": "^2.3.2"
