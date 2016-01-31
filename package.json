@@ -24,6 +24,7 @@
     "jasmine": "^2.3.2"
   },
   "scripts": {
+    "start": "node server.js",
     "test": "TESTING=1 jasmine"
   },
   "engines": {
